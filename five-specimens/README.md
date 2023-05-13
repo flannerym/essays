@@ -1,13 +1,13 @@
-**How to Read an Herbarium Specimen**
+# How to Read an Herbarium Specimen
 (Learning about herbaria in five specimens)
 
 There are over 340,000 known flowering plant species, a lot to keep track of. With many species threatened by environmental change, it’s particularly important to document what is growing where. This is one of the functions of herbarium specimens, preserved plants often in the form of pressed cuttings that have been collected since the 16th century.  The technique now used is very similar to that originally employed:  a cutting is carefully spread out on absorbent paper, covered by another sheet, and pressed between boards so the plant doesn't curl up as it dries. A specimen can then last indefinitely if kept from the three most common threats: water, fire, and insects.  Five examples are presented to tell the history of plant collecting and why herbaria are becoming more important in a number of ways.
 
-**A 16th-century Tomato**
+### A 16th-century Tomato
 
 In the past, herbarium sheets were often bound into book form to preserve them.  This Italian specimen from about 1558 is typical of collecting’s early years when little more than a plant’s name was given, in this case in Latin, and often two or more species were attached to a page.  To the right is a tomato plant, an early example of this Latin American species grown and preserved in Europe.  A small sample of this specimen was used to sequence its DNA and the plant was found to be a domesticated variety.  Preserved plants like this reveal that a number of Latin American and Asian species were found in many European countries early in the history of European exploration.  
 
-**Darlingtonia**
+### Darlingtonia
 
 From the 16th century on, plant collectors were dispatched around the world in search of new species.  Since it was difficult to transport live plants or even seeds on long ocean voyages, specimens and illustrations were sent to botanists for study.  The US sponsored Wilkes Expedition (1838-1842) brought back 50,000 plant specimens, including many new species.  The New York botanist John Torrey studied those collected in what is now Oregon and California.  Among them were pitcher plant specimens: its stems and distinctive cylindrical leaves.  However, it was impossible to identify or describe the species because there were no flowers, often the most distinctive part of a plant.  
 
@@ -21,13 +21,13 @@ The remainder of the collection was left unstudied in Philadelphia’s American 
 
 These specimens provide microhistories of who has researched them over more than two centuries.  And when they are studied along with the expedition’s journals and other documentation, they provide a fuller picture of where and when they were collected and what happened to them since.  These plants are historical documents as much as they are scientific ones.  
 
-**Richard Spruce**
+### Richard Spruce
 
 The British botanist Richard Spruce took notes on the indigenous uses for the plants he collected and in some cases these are still affixed to specimens as with this Paricá tree cutting gathered in the Amazon region near the Rio Nigro in 1850.  In the note, Spruce tells of what he  learned about the tree’s seeds from indigenous guides who traveled with him.  The seeds were dried, ground to a powder, which was then inhaled through a narrow two-part pipe made by halving a bone from a birds leg.  The effect of inhalation was an altered state of conscious.  
 
 The history of plant collecting is closely tied to the history of colonization around the world.  Nations like Britain had powerful navies that sailed around the world often with naturalists to survey the resources of lands they visited.  Because they knew little about these areas, collectors had to rely on indigenous people to find and identify plants and their uses.  When reporting on their travels, collectors sometimes ignored or minimized these contributions.  In other cases, this information was lost in transit or discarded by those who didn’t consider it important.  In this way the indigenous contribution to plant discovery was erased.  This is not the case here, where Spruce gave detailed information and acknowledged that it came from his guides.
 
-**Today’s Labels**
+### Today’s Labels
 
 A label with at least the plant’s name identifies the herbarium specimen.  Early labels usually contained little more than the name, often in Latin and a vernacular language. As time went on, botanists realized that different species grew in different types of habitats so it was useful to record where the plant was found and also when it was collected and by whom.  Now it is standard to add information on flower color or form that might be lost in the pressed specimen, as well as geographic coordinates for precise location, a short description of the habitat, and other species present.  
 
