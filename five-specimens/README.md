@@ -1,12 +1,15 @@
-.ve-media https://iiif.archivelab.org/iiif/Spiraea_prunifolia_Sieb.andZucc./manifest.json right
+
 
 There are over 340,000 known flowering plant species, a lot to keep track of. With many species threatened by environmental change, it’s particularly important to document what is growing where. This is one of the functions of ==herbarium=={Q181916} specimens, preserved plants often in the form of pressed cuttings that have been collected since the 16th century.  The technique now used is very similar to that originally employed:  a cutting is carefully spread out on absorbent paper, covered by another sheet, and pressed between boards so the plant doesn't curl up as it dries. A specimen can then last indefinitely if kept from the three most common threats: water, fire, and insects.  Five examples are presented to tell the history of plant collecting and why herbaria are becoming more important in a number of ways.
 
+
 ### A 16th-century Tomato
 
-.ve-media wc:Naturalis_Biodiversity_Center_-Solanumlycopersicum_var._lycopersicum_-oldtomatoherbariumsheet.jpg right
+.ve-media wc:Naturalis_Biodiversity_Center_-_Solanum_lycopersicum_var._lycopersicum_-_old_tomato_herbarium_sheet.jpg right
 
-In the past, herbarium sheets were often bound into book form to preserve them.  This Italian specimen from about 1558 is typical of collecting’s early years when little more than a plant’s name was given, in this case in Latin, and often two or more species were attached to a page.  To the right is a ==tomato=={Q23501} plant, an early example of this Latin American species grown and preserved in Europe.  A small sample of this specimen was used to sequence its DNA and the plant was found to be a domesticated variety.  Preserved plants like this reveal that a number of Latin American and Asian species were found in many European countries early in the history of European exploration.  
+
+In the past, herbarium sheets were often bound into book form to preserve them.  This Italian specimen from about 1558 is typical of collecting’s early years when little more than a plant’s name was given, in this case in Latin, and often two or more species were attached to a page.  
+To the right is a ==tomato=={Q23501} plant, an early example of this Latin American species grown and preserved in Europe.  A small sample of this specimen was used to sequence its DNA and the plant was found to be a domesticated variety.  Preserved plants like this reveal that a number of Latin American and Asian species were found in many European countries early in the history of European exploration.  
 
 ### Darlingtonia
 
@@ -23,6 +26,7 @@ The remainder of the collection was left unstudied in Philadelphia’s ==America
 These specimens provide microhistories of who has researched them over more than two centuries.  And when they are studied along with the expedition’s journals and other documentation, they provide a fuller picture of where and when they were collected and what happened to them since.  These plants are historical documents as much as they are scientific ones.  
 
 ### Richard Spruce
+
 
 The British botanist ==Richard Spruce=={Q1349394} took notes on the indigenous uses for the plants he collected and in some cases these are still affixed to specimens as with this ==Paricá tree=={Q150584} cutting gathered in the ==Amazon region=={Q2841453} near the ==Rio Negro=={Q118771} in 1850.  In the note, Spruce tells of what he  learned about the tree’s seeds from indigenous guides who traveled with him.  The seeds were dried, ground to a powder, which was then inhaled through a narrow two-part pipe made by halving a bone from a birds leg.  The effect of inhalation was an altered state of conscious.  
 
