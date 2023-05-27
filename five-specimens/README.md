@@ -32,14 +32,16 @@ The remainder of the collection was left unstudied in Philadelphia’s ==America
 
 These specimens provide microhistories of who has researched them over more than two centuries.  And when they are studied along with the expedition’s journals and other documentation, they provide a fuller picture of where and when they were collected and what happened to them since.  These plants are historical documents as much as they are scientific ones.  
 
-### Richard Spruce
 
+### Richard Spruce
+.ve-media gh:flannerym/media/Spruce.jpeg right
 
 The British botanist ==Richard Spruce=={Q1349394} took notes on the indigenous uses for the plants he collected and in some cases these are still affixed to specimens as with this ==Paricá tree=={Q150584} cutting gathered in the ==Amazon region=={Q2841453} near the ==Rio Negro=={Q118771} in 1850.  In the note, Spruce tells of what he  learned about the tree’s seeds from indigenous guides who traveled with him.  The seeds were dried, ground to a powder, which was then inhaled through a narrow two-part pipe made by halving a bone from a birds leg.  The effect of inhalation was an altered state of conscious.  
 
 The history of plant collecting is closely tied to the history of colonization around the world.  Nations like Britain had powerful navies that sailed around the world often with naturalists to survey the resources of lands they visited.  Because they knew little about these areas, collectors had to rely on indigenous people to find and identify plants and their uses.  When reporting on their travels, collectors sometimes ignored or minimized these contributions.  In other cases, this information was lost in transit or discarded by those who didn’t consider it important.  In this way the indigenous contribution to plant discovery was erased.  This is not the case here, where Spruce gave detailed information and acknowledged that it came from his guides.
 
 ### Today’s Labels
+.ve-media gh:flannerym/media/Nelson.jpg left
 
 A label with at least the plant’s name identifies the herbarium specimen.  Early labels usually contained little more than the name, often in Latin and a ==vernacular=={Q1036511} language. As time went on, botanists realized that different species grew in different types of habitats so it was useful to record where the plant was found and also when it was collected and by whom.  Now it is standard to add information on flower color or form that might be lost in the pressed specimen, as well as geographic coordinates for precise location, a short description of the habitat, and other species present.  
 
