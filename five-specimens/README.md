@@ -20,10 +20,13 @@ From the 16th century on, plant collectors were dispatched around the world in s
 A few years later another collector who had visited the same area arrived at Torrey’s door with a package of specimens.  Opening it immediately, he realized it contained specimens of the same pitcher plant, but in flower.  He sent a portion of this precious material to a botanical illustrator who returned a sketch giving dimensionality to the flattened plant.  The drawing does a masterful job of giving form to the flattened specimen, and the photograph reveals what is lost when a plant is dried.  Torrey named it ==*Darlingtonia californica*=={Q1138945} after his friend ==William Darlington=={Q8007604} of Pennsylvania with whom he traded specimens.  It was often through such connections that plants received their names.  The specimen shown here is called the type specimen because it is the one that Torrey described in his publication.  Types are considered particularly important in referencing species’ traits.  
 
 ### Lewis and Clark
-.ve-media gh:flannerym/media/Berberis.jpg right sticky
-
+.ve-media gh:flannerym/media/Berberis.jpg right 
 
 Specimens can also hold stories about what happened to them after collection. After ==President Thomas Jefferson=={Q11812} appointed ==Meriwether Lewis=={Q313492} and ==William Clark=={Q355348} to lead an expedition into the newly acquired ==Louisiana Purchase=={Q193155} territory, Lewis was tutored in plant identification and collection by ==Benjamin Barton=={Q276825}, a leading Philadelphia botanist.  Some of Lewis’s specimens were lost in transit, a common problem for expeditions.  However, many did reach Barton who then asked botanist ==Frederick Pursh=={Q67353} to study them. Pursh became dissatisfied with his compensation and left with some of the specimens, eventually sailing to England where he published descriptions of many expedition plants. He then sold the specimens to British botanist ==Aylmer Bourke Lambert=={Q374894} whose collection was auctioned after his death. The Lewis material was bought by an American botanist who donated them to the ==Academy of Natural Sciences=={Q2822400} in Philadelphia. 
+
+
+
+.ve-media gh:flannerym/media/Artemesia.jpg left
 
 The remainder of the collection was left unstudied in Philadelphia’s ==American Philosophical Society=={Q466089} until the late 19th century when it were reunited at ANS with the Lambert material, 227 sheets in all.  Some of this history can be read on the specimens. A specimen of the ==Oregon grape=={Q158303} is one that Pursh took to England and has the stamp of the Lambert Herbarium. The ==long-leaved sage=={Q15470605} specimen remained in Philadelphia and has the original Lewis label of colored blotting paper he used to press specimens; only 34 of these still exist. Pursh had rewritten many of Lewis’s labels and then disposed of the originals, a rather common practice at the time.  More recent slips note botanists who have examined the specimens and confirmed identifications.  Today, every bit of information on a specimen is retained in case it might be valuable in the future.
 
