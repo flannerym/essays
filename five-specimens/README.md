@@ -13,11 +13,15 @@ To the right is a ==tomato=={Q23501} plant, an early example of this Latin Ameri
 
 ### Darlingtonia
 
+.ve-media gh:flannerym/media/Darlingtonia.jpg right
+
 From the 16th century on, plant collectors were dispatched around the world in search of new species.  Since it was difficult to transport live plants or even seeds on long ocean voyages, specimens and illustrations were sent to botanists for study.  The US sponsored ==Wilkes Expedition=={Q119129} (1838-1842) brought back 50,000 plant specimens, including many new species.  The New York botanist ==John Torrey=={Q1346660} studied those collected in what is now Oregon and California.  Among them were pitcher plant specimens: its stems and distinctive cylindrical leaves.  However, it was impossible to identify or describe the species because there were no flowers, often the most distinctive part of a plant.  
 
 A few years later another collector who had visited the same area arrived at Torrey’s door with a package of specimens.  Opening it immediately, he realized it contained specimens of the same pitcher plant, but in flower.  He sent a portion of this precious material to a botanical illustrator who returned a sketch giving dimensionality to the flattened plant.  The drawing does a masterful job of giving form to the flattened specimen, and the photograph reveals what is lost when a plant is dried.  Torrey named it ==*Darlingtonia californica*=={Q1138945} after his friend ==William Darlington=={Q8007604} of Pennsylvania with whom he traded specimens.  It was often through such connections that plants received their names.  The specimen shown here is called the type specimen because it is the one that Torrey described in his publication.  Types are considered particularly important in referencing species’ traits.  
 
 ### Lewis and Clark
+.ve-media gh:flannerym/media/Berberis.jpg right sticky
+
 
 Specimens can also hold stories about what happened to them after collection. After ==President Thomas Jefferson=={Q11812} appointed ==Meriwether Lewis=={Q313492} and ==William Clark=={Q355348} to lead an expedition into the newly acquired ==Louisiana Purchase=={Q193155} territory, Lewis was tutored in plant identification and collection by ==Benjamin Barton=={Q276825}, a leading Philadelphia botanist.  Some of Lewis’s specimens were lost in transit, a common problem for expeditions.  However, many did reach Barton who then asked botanist ==Frederick Pursh=={Q67353} to study them. Pursh became dissatisfied with his compensation and left with some of the specimens, eventually sailing to England where he published descriptions of many expedition plants. He then sold the specimens to British botanist ==Aylmer Bourke Lambert=={Q374894} whose collection was auctioned after his death. The Lewis material was bought by an American botanist who donated them to the ==Academy of Natural Sciences=={Q2822400} in Philadelphia. 
 
