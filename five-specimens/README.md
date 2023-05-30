@@ -35,10 +35,12 @@ The British botanist ==Richard Spruce=={Q1349394} took notes on the indigenous u
 The history of plant collecting is closely tied to the history of colonization around the world.  Nations like Britain had powerful navies that sailed around the world often with naturalists to survey the resources of lands they visited.  Because they knew little about these areas, collectors had to rely on indigenous people to find and identify plants and their uses.  When reporting on their travels, collectors sometimes ignored or minimized these contributions.  In other cases, this information was lost in transit or discarded by those who didn’t consider it important.  In this way the indigenous contribution to plant discovery was erased.  This is not the case here, where Spruce gave detailed information and acknowledged that it came from his guides.
 
 ### Today’s Labels
-.ve-media gh:flannerym/media/Nelson.jpg left
+.ve-media gh:flannerym/media/Nelson.jpg sticky left
+    -  Q106264295
 
 A label with at least the plant’s name identifies the herbarium specimen.  Early labels usually contained little more than the name, often in Latin and a ==vernacular=={Q1036511} language. As time went on, botanists realized that different species grew in different types of habitats so it was useful to record where the plant was found and also when it was collected and by whom.  Now it is standard to add information on flower color or form that might be lost in the pressed specimen, as well as geographic coordinates for precise location, a short description of the habitat, and other species present.  
 
 This additional data makes specimens useful in research beyond plant identification.  ==Geographic coordinates=={Q106264295} are employed in mapping a species’ range and in helping to predict the effects of global warming.  Since specimens have been collected for centuries, particularly intensively in the last two; they provide evidence of changes in flowering and fruiting times due to climate change.  Over the past decade, there have been massive efforts to digitize specimen data to make them available to researchers around the world in order to study environmental changes and also to document the earth’s biodiversity as it comes under increasing threat.  
+{enter=zoomto:Q106264295}
 
 
