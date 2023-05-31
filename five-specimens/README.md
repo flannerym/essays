@@ -43,4 +43,4 @@ A label with at least the plant’s name identifies the herbarium specimen.  Ear
 This additional data makes specimens useful in research beyond plant identification.  ==Geographic coordinates=={Q106264295} are employed in mapping a species’ range and in helping to predict the effects of global warming.  Since specimens have been collected for centuries, particularly intensively in the last two; they provide evidence of changes in flowering and fruiting times due to climate change.  Over the past decade, there have been massive efforts to digitize specimen data to make them available to researchers around the world in order to study environmental changes and also to document the earth’s biodiversity as it comes under increasing threat.  
 {enter=zoomto:Q106264295}
 
-
+.ve-annotate 
