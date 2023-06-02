@@ -5,10 +5,11 @@ There are over 340,000 known flowering plant species:  a lot to keep track of. W
 ### A 16th-century Tomato
 
 .ve-media wc:Naturalis_Biodiversity_Center_-_Solanum_lycopersicum_var._lycopersicum_-_old_tomato_herbarium_sheet.jpg right 
+.ve-annotate
 
 In the past, herbarium sheets were often bound into book form to preserve them.  This Italian specimen from about 1558 is typical of collecting’s early years when little more than a plant’s name was given, in this case in Latin, and often two or more species were attached to a page.  
-To the right is a ==tomato=={zoomto=255,68,338,486} plant, an early example of this Latin American species grown and preserved in Europe.  A small sample of this specimen was used to sequence its DNA and the plant was found to be a domesticated variety.  Preserved plants like this reveal that a number of Latin American and Asian species were found in many European countries early in the history of European exploration.  
-
+To the right is a tomato plant, an early example of this Latin American species grown and preserved in Europe.  A small sample of this specimen was used to sequence its DNA and the plant was found to be a domesticated variety.  Preserved plants like this reveal that a number of Latin American and Asian species were found in many European countries early in the history of European exploration.  
+    
 
 ### Darlingtonia
 
