@@ -5,19 +5,19 @@ There are over 340,000 known flowering plant species:  a lot to keep track of. W
 ### A 16th-century Tomato
 
 .ve-media wc:Naturalis_Biodiversity_Center_-_Solanum_lycopersicum_var._lycopersicum_-_old_tomato_herbarium_sheet.jpg right 
-.ve-annotate
 
 In the past, herbarium sheets were often bound into book form to preserve them.  This Italian specimen from about 1558 is typical of collecting’s early years when little more than a plant’s name was given, in this case in Latin, and often two or more species were attached to a page.  
-To the right is a tomato plant, an early example of this Latin American species grown and preserved in Europe.  A small sample of this specimen was used to sequence its DNA and the plant was found to be a domesticated variety.  Preserved plants like this reveal that a number of Latin American and Asian species were found in many European countries early in the history of European exploration.  
-    
+To the right is a ==tomato plant=={anno=142,637,441,638}, an early example of this Latin American species grown and preserved in Europe.  A small sample of this specimen was used to sequence its DNA and the plant was found to be a domesticated variety.  Preserved plants like this reveal that a number of Latin American and Asian species were found in many European countries early in the history of European exploration. 
 
 ### Darlingtonia
 
 .ve-media gh:flannerym/media/Darlingtonia.jpg right sticky
 
+.ve-annotate
+
 From the 16th century on, plant collectors were dispatched around the world in search of new species.  Since it was difficult to transport live plants or even seeds on long ocean voyages, specimens and illustrations were sent to botanists for study.  The US sponsored ==Wilkes Expedition=={Q119129} (1838-1842) brought back 50,000 plant specimens, including many new species.  The New York botanist ==John Torrey=={Q1346660} studied those collected in what is now Oregon and California.  Among them were pitcher plant specimens: its stems and distinctive cylindrical leaves.  However, it was impossible to identify or describe the species because there were no flowers, often the most distinctive part of a plant.  
 
-A few years later another collector who had visited the same area arrived at Torrey’s door with a package of specimens.  Opening it immediately, he realized it contained specimens of the same pitcher plant, but ==in flower=={zoomto=493,576,917,1288}.  He sent a portion of this precious material to a botanical illustrator who returned a sketch giving dimensionality to the flattened plant.  The drawing does a masterful job of giving form to the flattened specimen, and the photograph reveals what is lost when a plant is dried.  Torrey named it ==*Darlingtonia californica*=={Q1138945} after his friend ==William Darlington=={Q8007604} of Pennsylvania with whom he traded specimens.  It was often through such connections that plants received their names.  The specimen shown here is called the type specimen because it is the one that Torrey described in his publication.  Types are considered particularly important in referencing species’ traits.  
+A few years later another collector who had visited the same area arrived at Torrey’s door with a package of specimens.  Opening it immediately, he realized it contained specimens of the same pitcher plant, but in ==flower=={386db45b}.  He sent a portion of this precious material to a botanical illustrator who returned a sketch giving dimensionality to the flattened plant.  The drawing does a masterful job of giving form to the flattened specimen, and the photograph reveals what is lost when a plant is dried.  Torrey named it ==*Darlingtonia californica*=={Q1138945} after his friend ==William Darlington=={Q8007604} of Pennsylvania with whom he traded specimens.  It was often through such connections that plants received their names.  The specimen shown here is called the type specimen because it is the one that Torrey described in his publication.  Types are considered particularly important in referencing species’ traits.  
 
 ### Lewis and Clark
 .ve-media gh:flannerym/media/Berberis.jpg right 
@@ -31,7 +31,7 @@ These specimens provide microhistories of who has researched them over more than
 ### Richard Spruce
 .ve-media gh:flannerym/media/Spruce.jpeg right sticky
 
-The British botanist ==Richard Spruce=={Q1349394} took notes on the indigenous uses for the plants he collected and in some cases these are still affixed to specimens as with this ==Paricá tree=={Q150584} cutting gathered in the ==Amazon region=={Q2841453} near the ==Rio Negro=={Q118771} in 1850.  In the note, Spruce tells of what he  learned about the tree’s seeds from indigenous guides who traveled with him.  The seeds were dried, ground to a powder, which was then inhaled through a narrow two-part pipe made by halving a bone from a birds leg.  The effect of inhalation was an altered state of conscious.  
+The British botanist ==Richard Spruce=={Q1349394} took notes on the indigenous uses for the plants he collected and in some cases these are still affixed to specimens as with this ==Paricá tree=={Q150584} cutting gathered in the ==Amazon region=={Q2841453} near the ==Rio Negro=={Q118771} in 1850.  In the note, Spruce tells of what he learned about the tree’s seeds from indigenous guides who traveled with him.  The seeds were dried, ground to a powder, which was then inhaled through a narrow two-part pipe made by halving a bone from a birds leg.  The effect of inhalation was an altered state of conscious.  
 
 The history of plant collecting is closely tied to the history of colonization around the world.  Nations like Britain had powerful navies that sailed around the world often with naturalists to survey the resources of lands they visited.  Because they knew little about these areas, collectors had to rely on indigenous people to find and identify plants and their uses.  When reporting on their travels, collectors sometimes ignored or minimized these contributions.  In other cases, this information was lost in transit or discarded by those who didn’t consider it important.  In this way the indigenous contribution to plant discovery was erased.  This is not the case here, where Spruce gave detailed information and acknowledged that it came from his guides.
 
