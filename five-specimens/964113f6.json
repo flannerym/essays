@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Notation about Pursh and Lambert's stamp",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://4x4rr42s5yd4hr7mdrjqp3euqm0hnpoe.lambda-url.us-east-1.on.aws/iiif/2/964113f63573b3ac7aeb1d2ab278f6bed55c9a5ff2628a34597cb3e713072a35",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1131.4752197265625,453.55072021484375,347.4110107421875,198.13763427734375"
+      },
+      "id": "964113f6"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "36ebe578"
+  }
+]
