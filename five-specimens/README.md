@@ -1,23 +1,18 @@
 .ve-header "How to Read an Herbarium Specimen" gh:flannerym/media/Rauwolf.jpeg "Maura Flannery" position=top sticky 
 .ve-annotate
 
-.ve-media wc:Naturalis_Biodiversity_Center_-_Solanum_lycopersicum_var._lycopersicum_-_old_tomato_herbarium_sheet.jpg
 There are over 340,000 known flowering plant species:  a lot to keep track of. With many species threatened by environmental change, it’s particularly important to document what is growing where. This is one of the functions of herbarium specimens, preserved plants often in the form of pressed cuttings that have been collected since the 16th century.  The technique now used to create them is very similar to that originally employed:  a cutting is carefully spread out on absorbent paper, covered by another sheet, and pressed between boards so the plant doesn't curl up as it dries. A specimen can then last indefinitely if kept from the three most common threats: water, fire, and insects.  Five examples are presented to tell the history of plant collecting as well as why herbaria are becoming more important in a number of ways.
 
-.ve-media wc:Naturalis_Biodiversity_Center_-_Solanum_lycopersicum_var._lycopersicum_-_old_tomato_herbarium_sheet.jpg
 ### A 16th-century Tomato
 
 .ve-media wc:Naturalis_Biodiversity_Center_-_Solanum_lycopersicum_var._lycopersicum_-_old_tomato_herbarium_sheet.jpg right 
-.ve-annotate
+
 In the past, herbarium sheets were often bound into book form to preserve them.  This Italian specimen from about 1558 is typical of collecting’s early years when little more than a plant’s name was given, in this case in Latin, and often two or more species were attached to a page.  
 To the right is a ==tomato plant=={24f95aff}, an early example of this Latin American species grown and preserved in Europe.  A small sample of this specimen was used to sequence its DNA and the plant was found to be a domesticated variety.  Preserved plants like this reveal that a number of Latin American and Asian species were found in many European countries early in the history of European exploration. 
-
 
 ### Darlingtonia
 
 .ve-media gh:flannerym/media/Darlingtonia.jpg right sticky
-
-    - gh:flannerym/media/Nelson.jpg
 
 From the 16th century on, plant collectors were dispatched around the world in search of new species.  Since it was difficult to transport live plants or even seeds on long ocean voyages, specimens and illustrations were sent to botanists for study.  The US sponsored ==Wilkes Expedition=={Q119129} (1838-1842) brought back 50,000 plant specimens, including many new species.  The New York botanist ==John Torrey=={Q1346660} studied those collected in what is now Oregon and California.  Among them were pitcher plant specimens: its stems and distinctive cylindrical leaves.  However, it was impossible to identify or describe the species because there were no flowers, often the most distinctive part of a plant.  A few years later another collector who had visitd the same area arrived at Torrey’s door with a package of specimens.  Opening it immediately, he realized it contained specimens of the same pitcher plant, but in ==flower=={87ac4946}, which was placed placed on the same sheet with the material collected years before.  Today, the later collection would have been made a separate specimen on its own sheet to record a different "collection event."  
 
