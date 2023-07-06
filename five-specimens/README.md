@@ -8,7 +8,7 @@ There are over 340,000 known flowering plant species:  a lot to keep track of. W
 .ve-media wc:Naturalis_Biodiversity_Center_-_Solanum_lycopersicum_var._lycopersicum_-_old_tomato_herbarium_sheet.jpg right 
 
 In the past, herbarium sheets were often bound into book form to preserve them.  This Italian specimen from about 1558 is typical of collecting’s early years when little more than a plant’s name was given, in this case in Latin, and often two or more species were attached to a page.  
-.ve-media wc:Naturalis_Biodiversity_Center_-_Solanum_lycopersicum_var._lycopersicum_-_old_tomato_herbarium_sheet.jpg
+
 To the right is a ==tomato plant=={24f95aff}, an early example of this Latin American species grown and preserved in Europe.  A small sample of this specimen was used to sequence its DNA and the plant was found to be a domesticated variety.  Preserved plants like this reveal that a number of Latin American and Asian species were found in many European countries early in the history of European exploration. 
 
 ### Darlingtonia
@@ -17,7 +17,7 @@ To the right is a ==tomato plant=={24f95aff}, an early example of this Latin Ame
 
 From the 16th century on, plant collectors were dispatched around the world in search of new species.  Since it was difficult to transport live plants or even seeds on long ocean voyages, specimens and illustrations were sent to botanists for study.  The US sponsored ==Wilkes Expedition=={Q119129} (1838-1842) brought back 50,000 plant specimens, including many new species.  The New York botanist ==John Torrey=={Q1346660} studied those collected in what is now Oregon and California.  Among them were pitcher plant specimens: its stems and distinctive cylindrical leaves.  However, it was impossible to identify or describe the species because there were no flowers, often the most distinctive part of a plant.  A few years later another collector who had visitd the same area arrived at Torrey’s door with a package of specimens.  Opening it immediately, he realized it contained specimens of the same pitcher plant, but in ==flower=={87ac4946}, which was placed placed on the same sheet with the material collected years before.  Today, the later collection would have been considered a separate specimen and given its own sheet to record a different "collection event."  
 
-.ve-media gh:flannerym/media/Darlingtonia_print.jpg left gh:flannerym/media/Darlingtonia_print.jpg right
+.ve-media gh:flannerym/media/Darlingtonia_print.jpg left 
 
 Torrey named it ==*Darlingtonia californica*=={Q1138945} after his friend ==William Darlington=={Q8007604} of Pennsylvania with whom he traded specimens.  It was often through such connections that plants received their names.  The specimen shown here is called the type specimen because it is the one that Torrey described in his publication; this is the way plants are officially named, made public to the botanical community.  Types are considered particularly important in referencing species’ traits.  In anticipation of publication, Torrey sent a portion of these precious specimens to a botanical illustrator who returned a sketch giving dimensionality to the flattened plant.  The drawing did a masterful job of giving form to the flattened specimen, and it was lithographed for the article Darlingtonia.  The photograph reveals what is lost when a plant is dried.  
 
