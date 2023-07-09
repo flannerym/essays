@@ -19,7 +19,7 @@ From the 16th century on, plant collectors were dispatched around the world in s
 
 ### Torrey
 
-.ve-media  - gh:flannerym/media/Darlingtonia_print.jpg left  
+.ve-media gh:flannerym/media/Darlingtonia_print.jpg left  
 
 Torrey named it ==*Darlingtonia californica*=={Q1138945} after his friend ==William Darlington=={Q8007604} of Pennsylvania with whom he traded specimens.  It was often through such connections that plants received their names.  The specimen shown here is called the type specimen because it is the one that Torrey described in his publication; this is the way plants are officially named, made public to the botanical community.  Types are considered particularly important in referencing species’ traits.  In anticipation of publication, Torrey sent a portion of these precious specimens to a botanical illustrator who returned a sketch giving dimensionality to the flattened plant.  The drawing did a masterful job of giving form to the flattened specimen, and it was lithographed for the article Darlingtonia.  The photograph reveals what is lost when a plant is dried.  
 
