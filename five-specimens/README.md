@@ -50,5 +50,6 @@ This additional data makes specimens useful in research beyond plant identificat
 
 
 
+.ve-media gh:flannerym/media/Darlingtonia_photo.jpg right  
 
 .ve-media gh:flannerym/media/Darlingtonia_print.jpeg left
