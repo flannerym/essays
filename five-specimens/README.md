@@ -1,11 +1,3 @@
-.ve-media gh:flannerym/media/Darlingtonia_photo.jpg right  
-
-.ve-media gh:flannerym/media/Darlingtonia_print.jpeg left
-
-
-
-
-
 .ve-header "How to Read an Herbarium Specimen" gh:flannerym/media/Rauwolf.jpeg "Maura Flannery" position=top sticky 
 .ve-annotate
 
@@ -49,12 +41,14 @@ The history of plant collecting is closely tied to the history of colonization a
 
 ### Today’s Labels
 .ve-media gh:flannerym/media/Nelson.jpg right
-    -  Q106264295
 
 A label with at least the plant’s name identifies the herbarium specimen.  Early labels usually contained little more than the name, often in Latin and a ==vernacular=={Q1036511} language. As time went on, botanists realized that different species grew in different types of habitats so it was useful to record where the plant was found and also when it was collected and by whom.  Now it is standard to add information on flower color or form that might be lost in the pressed specimen, as well as geographic coordinates for precise location, a short description of the habitat, and other species present.  
 
 This additional data makes specimens useful in research beyond plant identification.  ==Geographic coordinates=={562f7195} are employed in mapping a species’ range and in helping to predict the effects of global warming.  Since specimens have been collected for centuries, particularly intensively in the last two; they provide evidence of changes in flowering and fruiting times due to climate change.  Over the past decade, there have been massive efforts to digitize specimen data to make them available to researchers around the world in order to study environmental changes and also to document the earth’s biodiversity as it comes under increasing threat.  
-{enter=zoomto:Q106264295}
+
+.ve-media gh:flannerym/media/Darlingtonia_photo.jpg right  
+
+.ve-media gh:flannerym/media/Darlingtonia_print.jpeg left
 
 
 
