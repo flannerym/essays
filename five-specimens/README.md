@@ -1,3 +1,11 @@
+.ve-media gh:flannerym/media/Darlingtonia_photo.jpg right  
+
+.ve-media gh:flannerym/media/Darlingtonia_print.jpeg left
+
+
+
+
+
 .ve-header "How to Read an Herbarium Specimen" gh:flannerym/media/Rauwolf.jpeg "Maura Flannery" position=top sticky 
 .ve-annotate
 
@@ -50,6 +58,3 @@ This additional data makes specimens useful in research beyond plant identificat
 
 
 
-.ve-media gh:flannerym/media/Darlingtonia_photo.jpg right  
-
-.ve-media gh:flannerym/media/Darlingtonia_print.jpeg left
