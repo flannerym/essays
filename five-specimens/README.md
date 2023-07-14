@@ -23,6 +23,13 @@ From the 16th century on, plant collectors were dispatched around the world in s
 
 Torrey named it ==*Darlingtonia californica*=={Q1138945} after his friend ==William Darlington=={Q8007604} of Pennsylvania with whom he traded specimens.  It was often through such connections that plants received their names.  The specimen shown here is called the type specimen because it is the one that Torrey described in his publication; this is the way plants are officially named, made public to the botanical community.  Types are considered particularly important in referencing species’ traits.  In anticipation of publication, Torrey sent a portion of these precious specimens to a botanical illustrator who returned a sketch giving dimensionality to the flattened plant.  The drawing did a masterful job of giving form to the flattened specimen, and it was lithographed for the article Darlingtonia.  The photograph reveals what is lost when a plant is dried.  
 
+#### Comparison
+
+.ve-media gh:flannerym/media/Darlingtonia_print.jpeg left
+
+.ve-media gh:flannerym/media/Darlingtonia_photo.jpg right  
+
+
 ### Lewis and Clark
 .ve-media gh:flannerym/media/Berberis.jpg right 
 Specimens can also hold stories about what happened to them after collection. After ==President Thomas Jefferson=={Q11812} appointed ==Meriwether Lewis=={Q313492} and ==William Clark=={Q355348} to lead an expedition into the newly acquired ==Louisiana Purchase=={Q193155} territory, Lewis was tutored in plant identification and collection by ==Benjamin Barton=={Q276825}, a leading Philadelphia botanist.  Some of Lewis’s specimens were lost in transit, a common problem for expeditions.  However, many did reach Barton who then asked botanist ==Frederick Pursh=={Q67353} to study them. Pursh became dissatisfied with his compensation and left with some of the specimens, eventually sailing to England where he published descriptions of many expedition plants. He then sold the specimens to British botanist ==Aylmer Bourke Lambert=={Q374894} whose collection was auctioned after his death. The Lewis material was bought by an American botanist who donated them to the ==Academy of Natural Sciences=={Q2822400} in Philadelphia. A specimen of the Oregon grape is one that ==Pursh=={741,1,743,1051,36ebe578} took to England and has the stamp of the Lambert Herbarium.
@@ -37,7 +44,7 @@ These specimens provide microhistories of who has researched them over more than
 
 The British botanist ==Richard Spruce=={Q1349394} ==took notes=={73f8a24a} on the indigenous uses for the plants he collected and in some cases these are still affixed to specimens as with this ==Paricá tree=={Q150584} cutting gathered in the ==Amazon region=={Q2841453} near the ==Rio Negro=={Q118771} in 1850.  In the note, Spruce tells of what he learned about the tree’s seeds from indigenous guides who traveled with him.  The seeds were dried, ground to a powder, which was then inhaled through a narrow two-part pipe made by halving a bone from a birds leg.  The effect of inhalation was an altered state of conscious.  
 
-The history of plant collecting is closely tied to the history of colonization around the world.  Nations like Britain had powerful navies that sailed around the world often with naturalists to survey the resources of lands they visited.  Because they knew little about these areas, collectors had to rely on indigenous people to find and identify plants and their uses.  When reporting on their travels, collectors sometimes ignored or minimized these contributions.  In other cases, this information was lost in transit or discarded by those who didn’t consider it important.  In this way the indigenous contribution to plant discovery was erased.  This is not the case here, where Spruce gave detailed information and acknowledged that it came from his guides.
+The history of plant collecting is closely tied to the history of colonization worldwide.  Nations like Britain had powerful navies that sailed around the world often with naturalists to survey the resources of lands they visited.  Because they knew little about these areas, collectors had to rely on indigenous people to find and identify plants and their uses.  When reporting on their travels, collectors sometimes ignored or minimized these contributions.  In other cases, this information was lost in transit or discarded by those who didn’t consider it important.  In this way the indigenous contribution to plant discovery was erased.  This is not the case here, where Spruce gave detailed information and acknowledged that it came from his guides.
 
 ### Today’s Labels
 .ve-media gh:flannerym/media/Nelson.jpg sticky right
@@ -46,11 +53,6 @@ A label with at least the plant’s name identifies the herbarium specimen.  Ear
 
 This additional data makes specimens useful in research beyond plant identification.  ==Geographic coordinates=={562f7195} are employed in mapping a species’ range and in helping to predict the effects of global warming.  Since specimens have been collected for centuries, particularly intensively in the last two; they provide evidence of changes in flowering and fruiting times due to climate change.  Over the past decade, there have been massive efforts to digitize specimen data to make them available to researchers around the world in order to study environmental changes and also to document the earth’s biodiversity as it comes under increasing threat.  
 
-#### Comparison
-
-.ve-media gh:flannerym/media/Darlingtonia_print.jpeg left
-
-.ve-media gh:flannerym/media/Darlingtonia_photo.jpg right  
 
 
 
