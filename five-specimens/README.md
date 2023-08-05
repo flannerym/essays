@@ -7,7 +7,7 @@ There are over 340,000 known flowering plant species:  a lot to keep track of. W
 
 .ve-media wc:Naturalis_Biodiversity_Center_-_Solanum_lycopersicum_var._lycopersicum_-_old_tomato_herbarium_sheet.jpg right 
 
-In the past, herbarium sheets were often bound into book form to preserve them.  This Italian specimen from about 1558 is typical of collecting’s early years when little more than a plant’s name was given, in this case in Latin, and often two or more species were attached to a page.  To the right is a ==tomato plant=={24f95aff}, an early example of this Latin American species grown and preserved in Europe.  A small sample of this specimen was used to sequence its DNA and the plant was found to be a domesticated variety.  Preserved plants like this reveal that a number of Latin American and Asian species were found in many European countries early in the history of European exploration. 
+In the past, herbarium sheets were often bound into book form to preserve them.  This Italian specimen from about 1558 is typical of collecting’s early years when little more than a plant’s name was given, in this case in Latin, and often two or more species were attached to a page.  To the right is a ==tomato plant=={24f95aff}, an early example of this Latin American species grown and preserved in Europe.  A small sample of this specimen was used to sequence its DNA and the plant was found to be a domesticated variety.[^ 2]  Preserved plants like this reveal that a number of Latin American and Asian species were found in many European countries early in the history of European exploration. 
 
 ### Darlingtonia
 
@@ -46,7 +46,9 @@ A label with at least the plant’s name identifies the herbarium specimen.  Ear
 This additional data makes specimens useful in research beyond plant identification.  ==Geographic coordinates=={562f7195} are employed in mapping a species’ range and in helping to predict the effects of global warming.  Since specimens have been collected for centuries, particularly intensively in the last two; they provide evidence of changes in flowering and fruiting times due to climate change.  Over the past decade, there have been massive efforts to digitize specimen data to make them available to researchers around the world in order to study environmental changes, and document the earth’s biodiversity as it comes under increasing threat.  In addition online access means increased availablity of these data to those in the global south, where biodiversity is greater, despite the fact that a much greater percentage of specimens are stored in herbaria in the global north, one of the effects of centuries of collecting by colonial powers.
 
 **References**
-[^1] Thijsse, Gerard. 2022. “‘Everlasting Gardens’: Origin, Spread and Pupose of the First Herbaria.” In *The Green Middle Ages: The Depiction and Use of Plants in the Western World * 600-1600, edited by Claudine A. Chavannes-Mazel and Linda IJpelaar, 72–107. Amsterdam: University of Amsterdam Press.
+[^1] Thijsse, Gerard. 2022. “‘Everlasting Gardens’: Origin, Spread and Pupose of the First Herbaria.” In *The Green Middle Ages: The Depiction and Use of Plants in the Western World  600-1600,* edited by Claudine A. Chavannes-Mazel and Linda IJpelaar, 72–107. Amsterdam: University of Amsterdam Press.
+[^2] Andel, Tinde van, Rutger A. Vos, Ewout Michels, and Anastasia Stefanaki. 2022. “Sixteenth-Century Tomatoes in Europe: Who Saw Them, What They Looked like, and Where They Came From.” PeerJ 10: e12790. https://doi.org/10.7717/peerj.12790.
+
 
 
 
