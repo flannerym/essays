@@ -15,7 +15,7 @@ In the past, herbarium sheets were often bound into book form to preserve them. 
 
 From the 16th century on, plant collectors were dispatched around the world in search of new species.  Since it was difficult to transport live plants or even seeds on long ocean voyages, specimens and illustrations were sent to botanists for study.  The United States sponsored ==Wilkes Expedition=={Q119129} (1838-1842) brought back 50,000 plant specimens, including many new species.  The New York botanist ==John Torrey=={Q1346660} studied those collected in what is now Oregon and California.  Among them were pitcher plant specimens:  stems and distinctive cylindrical leaves.  However, it was impossible to identify or describe the species because there were no flowers, often the most distinctive part of a plant.  A few years later another collector who had visited the same area arrived at Torrey’s door with a package of specimens.  Opening it immediately, Torrey realized it contained specimens of the same pitcher plant, but in ==flower=={87ac4946}, which was preserved on the same sheet with the material collected years before.  Today, the later collection would have been considered a separate specimen and given its own sheet to record a different "collection event."  
 
-Torrey named the species ==*Darlingtonia californica*=={Q1138945} after his friend ==William Darlington=={Q8007604} of Pennsylvania with whom he traded specimens.  It was often through such connections that plants received their names.  The specimen shown here is called the type specimen because it is the one that Torrey described in his publication; this is how plants are officially named, made public to the botanical community.  Types are considered particularly important in referencing species’ traits.  In anticipation of publication, Torrey sent a portion of these specimens to a botanical illustrator who returned a sketch giving dimensionality to the flattened plant.  The drawing did a masterful job of giving form to the flattened specimen, and it was lithographed for the article Darlingtonia.  The photograph on the right reveals what is lost when a plant is dried.  
+Torrey named the species ==*Darlingtonia californica*=={Q1138945} after his friend ==William Darlington=={Q8007604} of Pennsylvania with whom he traded specimens.  It was often through such connections that plants received their names.  The specimen shown here is called the type specimen because it is the one that Torrey described in his publication; this is how plants are officially named, made public to the botanical community.[^3]  Types are considered particularly important in referencing species’ traits.  In anticipation of publication, Torrey sent a portion of these specimens to a botanical illustrator who returned a sketch giving dimensionality to the flattened plant.  The drawing did a masterful job of giving form to the flattened specimen, and it was lithographed for the article Darlingtonia.  The photograph on the right reveals what is lost when a plant is dried.  
 
 ####Comparison
 
@@ -48,11 +48,4 @@ This additional data makes specimens useful in research beyond plant identificat
 **References**
 [^1] Thijsse, Gerard. 2022. “‘Everlasting Gardens’: Origin, Spread and Pupose of the First Herbaria.” In *The Green Middle Ages: The Depiction and Use of Plants in the Western World  600-1600,* edited by Claudine A. Chavannes-Mazel and Linda IJpelaar, 72–107. Amsterdam: University of Amsterdam Press.
 [^2] Andel, Tinde van, Rutger A. Vos, Ewout Michels, and Anastasia Stefanaki. 2022. “Sixteenth-Century Tomatoes in Europe: Who Saw Them, What They Looked like, and Where They Came From.” *PeerJ* 10: e12790. https://doi.org/10.7717/peerj.12790.
-
-
-
-
-
-
-
-
+[^3] Spamer, Earle, and Richard McCourt. 2002. “The Lewis and Clark Herbarium of The Academy of Natural Sciences. Part 1.” *Notulae Naturae*, no. 475: 1–46.
