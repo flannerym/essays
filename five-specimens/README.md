@@ -54,6 +54,6 @@ This additional data makes specimens useful in research beyond plant identificat
 
 [^4] Spamer, Earle, and Richard McCourt. 2002. “The Lewis and Clark Herbarium of The Academy of Natural Sciences. Part 1.” *Notulae Naturae*, no. 475: 1–46.
 
-[^5] Das, S., and M. Lowe. 2018. “Nature Read in Black and White: Decolonial Approaches to Interpreting Natural History Collections.” Journal of Natural Science Collections 6: 4–14.
+[^5] Das, S., and M. Lowe. 2018. “Nature Read in Black and White: Decolonial Approaches to Interpreting Natural History Collections.” *Journal of Natural Science Collections* 6: 4–14.
 
 [^6] Milliken, William. 2017. “Mobilising Richard Spruce’s 19th Century Amazon Legacy.” Kew Blogs. 2017. https://www.kew.org/read-and-watch/mobilising-richard-spruce-legacy.
