@@ -47,14 +47,14 @@ A label with at least the plant’s name identifies the herbarium specimen.  Ear
 This additional data makes specimens useful in research beyond plant identification. ==Geographic coordinates=={562f7195} are employed in mapping a species’ range and in helping to predict the effects of global warming. Since specimens have been collected for centuries, particularly intensively in the last two; they provide evidence of changes in flowering and fruiting times due to climate change. Over the past decade, there have been massive efforts to digitize specimen data to make them available to researchers around the world in order to study environmental changes, and document the earth’s biodiversity as it comes under increasing threat. In addition online access means increased availability of these data to those in the global south, where biodiversity is greater, despite the fact that a much higher percentage of specimens are stored in herbaria in the global north, one of the effects of centuries of collecting by colonial powers.
 
 ### References
-[^1] Thijsse, Gerard. 2022. “‘Everlasting Gardens’: Origin, Spread and Purpose of the First Herbaria.” In *The Green Middle Ages: The Depiction and Use of Plants in the Western World  600-1600,* edited by Claudine A. Chavannes-Mazel and Linda IJpelaar, 72–107. Amsterdam: University of Amsterdam Press.
+[^1]: Thijsse, Gerard. 2022. “‘Everlasting Gardens’: Origin, Spread and Purpose of the First Herbaria.” In *The Green Middle Ages: The Depiction and Use of Plants in the Western World  600-1600,* edited by Claudine A. Chavannes-Mazel and Linda IJpelaar, 72–107. Amsterdam: University of Amsterdam Press.
 
-[^2] Andel, Tinde van, Rutger A. Vos, Ewout Michels, and Anastasia Stefanaki. 2022. “Sixteenth-Century Tomatoes in Europe: Who Saw Them, What They Looked like, and Where They Came From.” *PeerJ* 10: e12790. https://doi.org/10.7717/peerj.12790.
+[^2]: Andel, Tinde van, Rutger A. Vos, Ewout Michels, and Anastasia Stefanaki. 2022. “Sixteenth-Century Tomatoes in Europe: Who Saw Them, What They Looked like, and Where They Came From.” *PeerJ* 10: e12790. https://doi.org/10.7717/peerj.12790.
 
-[^3] Flannery, Maura C. 2019. “Naming a Genus for William Darlington: A Case Study in Botanical Eponymy.” *Archives of Natural History* 46 (1): 75–87. https://doi.org/10.3366/anh.2019.0555.
+[^3]: Flannery, Maura C. 2019. “Naming a Genus for William Darlington: A Case Study in Botanical Eponymy.” *Archives of Natural History* 46 (1): 75–87. https://doi.org/10.3366/anh.2019.0555.
 
-[^4] Spamer, Earle, and Richard McCourt. 2002. “The Lewis and Clark Herbarium of The Academy of Natural Sciences. Part 1.” *Notulae Naturae*, no. 475: 1–46.
+[^4]: Spamer, Earle, and Richard McCourt. 2002. “The Lewis and Clark Herbarium of The Academy of Natural Sciences. Part 1.” *Notulae Naturae*, no. 475: 1–46.
 
-[^5] Das, S., and M. Lowe. 2018. “Nature Read in Black and White: Decolonial Approaches to Interpreting Natural History Collections.” *Journal of Natural Science Collections* 6: 4–14.
+[^5]: Das, S., and M. Lowe. 2018. “Nature Read in Black and White: Decolonial Approaches to Interpreting Natural History Collections.” *Journal of Natural Science Collections* 6: 4–14.
 
-[^6] Milliken, William. 2017. “Mobilising Richard Spruce’s 19th Century Amazon Legacy.” Kew Blogs. 2017. https://www.kew.org/read-and-watch/mobilising-richard-spruce-legacy.
+[^6]: Milliken, William. 2017. “Mobilising Richard Spruce’s 19th Century Amazon Legacy.” Kew Blogs. 2017. https://www.kew.org/read-and-watch/mobilising-richard-spruce-legacy.
