@@ -57,4 +57,4 @@ This additional data makes specimens useful in research beyond plant identificat
 
 [^5]: Das, S., and M. Lowe. 2018. “Nature Read in Black and White: Decolonial Approaches to Interpreting Natural History Collections.” *Journal of Natural Science Collections* 6: 4–14.
 
-[^6]: Milliken, William. 2017. “Mobilising Richard Spruce’s 19th Century Amazon Legacy.” Kew Blogs. 2017. https://www.kew.org/read-and-watch/mobilising-richard-spruce-legacy.
+[^6]: [Milliken, William. 2017. “Mobilising Richard Spruce’s 19th Century Amazon Legacy.” Kew Blogs. 2017.] (https://www.kew.org/read-and-watch/mobilising-richard-spruce-legacy).
