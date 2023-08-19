@@ -49,7 +49,7 @@ This additional data makes specimens useful in research beyond plant identificat
 ### References
 [^1]: Thijsse, Gerard. 2022. “‘Everlasting Gardens’: Origin, Spread and Purpose of the First Herbaria.” In *The Green Middle Ages: The Depiction and Use of Plants in the Western World  600-1600,* edited by Claudine A. Chavannes-Mazel and Linda IJpelaar, 72–107. Amsterdam: University of Amsterdam Press.
 
-[^2]: Andel, Tinde van, Rutger A. Vos, Ewout Michels, and Anastasia Stefanaki. 2022. “Sixteenth-Century Tomatoes in Europe: Who Saw Them, What They Looked like, and Where They Came From.” *PeerJ* 10: e12790. (https://doi.org/10.7717/peerj.12790). doi.org
+[^2]: Andel, Tinde van, Rutger A. Vos, Ewout Michels, and Anastasia Stefanaki. 2022. “Sixteenth-Century Tomatoes in Europe: Who Saw Them, What They Looked like, and Where They Came From.” *PeerJ* 10: e12790. [https://doi.org/10.7717/peerj.12790](https://doi.org/10.7717/peerj.12790).
 
 [^3]: Flannery, Maura C. 2019. “Naming a Genus for William Darlington: A Case Study in Botanical Eponymy.” *Archives of Natural History* 46 (1): 75–87. https://doi.org/10.3366/anh.2019.0555.
 
