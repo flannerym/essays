@@ -51,7 +51,7 @@ This additional data makes specimens useful in research beyond plant identificat
 
 [^2]: Andel, Tinde van, Rutger A. Vos, Ewout Michels, and Anastasia Stefanaki. 2022. “Sixteenth-Century Tomatoes in Europe: Who Saw Them, What They Looked like, and Where They Came From.” *PeerJ* 10: e12790. [https://doi.org/10.7717/peerj.12790](https://doi.org/10.7717/peerj.12790).
 
-[^3]: Flannery, Maura C. 2019. “Naming a Genus for William Darlington: A Case Study in Botanical Eponymy.” *Archives of Natural History* 46 (1): 75–87. https://doi.org/10.3366/anh.2019.0555.
+[^3]: Flannery, Maura C. 2019. “Naming a Genus for William Darlington: A Case Study in Botanical Eponymy.” *Archives of Natural History* 46 (1): 75–87. (https://doi.org/10.3366/anh.2019.0555).
 
 [^4]: Spamer, Earle, and Richard McCourt. 2002. “The Lewis and Clark Herbarium of The Academy of Natural Sciences. Part 1.” *Notulae Naturae*, no. 475: 1–46.
 
