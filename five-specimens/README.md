@@ -3,13 +3,13 @@
 
 There are over 340,000 known flowering plant species: a lot to keep track of. With many species threatened by environmental change, it’s particularly important to document what is growing where. This is one of the functions of herbarium specimens, preserved plants often in the form of pressed cuttings that have been collected since the 16th century.[^1]  The technique now used to create them is very similar to that originally employed:  a cutting is carefully spread out on absorbent paper, covered by another sheet, and pressed between boards so the plant doesn't curl up as it dries. A specimen can then last indefinitely if kept from the three most common threats: water, fire, and insects.  
 
-### A 16th-Century Tomato
+### Five Hundred Years of Herbaria: A 16th-Century Tomato
 
 .ve-media wc:Naturalis_Biodiversity_Center_-_Solanum_lycopersicum_var._lycopersicum_-_old_tomato_herbarium_sheet.jpg right 
 
 In the past, herbarium sheets were often bound into book form to preserve them, as with the Italian En Tibi herbarium now in the Naturalis Biodiversity Center in the Netherlands. This page from about 1558 is typical of collecting’s early years when little more than a plant’s name was given, usually in Latin, and often two or more species were attached to a sheet. To the right is a ==tomato plant=={24f95aff}, an early example of this Latin American species grown and preserved in Europe. A small sample of this specimen was used to sequence its DNA, and the plant was found to be a domesticated variety.[^2]  Examples like this reveal that a number of Latin American and Asian species were found in many European countries early in the history of European exploration. 
 
-### Darlingtonia
+### Collecting Voyages and Naming Plants: The Case of *Darlingtonia*
 
 .ve-media gh:flannerym/media/Darlingtonia.jpg right
 
