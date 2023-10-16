@@ -61,3 +61,5 @@ This additional data makes specimens useful in research beyond plant identificat
 [^6]: Milliken, William. 2017. “Mobilising Richard Spruce's 19th Century Amazon Legacy.” Kew Blogs. 2017. [https://www.kew.org/read-and-watch/mobilising-richard-spruce-legacy](https://www.kew.org/read-and-watch/mobilising-richard-spruce-legacy).
 
 [^7]: Park, Daniel S., Xiao Feng, Shinobu Akiyama, Marlina Ardiyani, Neida Avendaño, Zoltan Barina, Blandine Bärtschi, et al. 2023. “The Colonial Legacy of Herbaria.” *Nature Human Behaviour*, 7: 1–10. [https://doi.org/10.1038/s41562-023-01616-7](https://doi.org/10.1038/s41562-023-01616-7).
+
+For more on herbaria, Maura Flannery has a blog [Herbarium World](https://herbariumworld.wordpress.com/) and has published *[In the Herbarium: The Hidden World of Collecting and Preserving Plants](https://yalebooks.yale.edu/book/9780300247916/in-the-herbarium/)* (Yale University Press, 2023).
