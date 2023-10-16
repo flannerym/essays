@@ -47,6 +47,8 @@ A label with at least the plant’s name identifies the herbarium specimen.  Ear
 
 This additional data makes specimens useful in research beyond plant identification. ==Geographic coordinates=={562f7195} are employed in mapping a species’ range and in helping to predict the effects of global warming. Since specimens have been collected for centuries, particularly intensively in the last two, they provide evidence of changes in flowering and fruiting times due to climate change. Over the past decade, there have been massive efforts to digitize specimen data to make them available to researchers around the world in order to study environmental changes, and document the earth’s biodiversity as it comes under increasing threat. In addition online access means increased availability of these data to those in the global south, where biodiversity is greater, despite the fact that a much higher percentage of specimens are stored in herbaria in the global north, one of the effects of centuries of collecting by colonial powers.[^7]
 
+For more on herbaria, Maura Flannery has a blog [Herbarium World](https://herbariumworld.wordpress.com/) and has published *[In the Herbarium: The Hidden World of Collecting and Preserving Plants](https://yalebooks.yale.edu/book/9780300247916/in-the-herbarium/)* (Yale University Press, 2023).
+
 ### References
 [^1]: Thijsse, Gerard. 2022. “‘Everlasting Gardens’: Origin, Spread and Purpose of the First Herbaria.” In *The Green Middle Ages: The Depiction and Use of Plants in the Western World  600-1600,* edited by Claudine A. Chavannes-Mazel and Linda IJpelaar, 72–107. Amsterdam: University of Amsterdam Press.
 
@@ -61,5 +63,3 @@ This additional data makes specimens useful in research beyond plant identificat
 [^6]: Milliken, William. 2017. “Mobilising Richard Spruce's 19th Century Amazon Legacy.” Kew Blogs. 2017. [https://www.kew.org/read-and-watch/mobilising-richard-spruce-legacy](https://www.kew.org/read-and-watch/mobilising-richard-spruce-legacy).
 
 [^7]: Park, Daniel S., Xiao Feng, Shinobu Akiyama, Marlina Ardiyani, Neida Avendaño, Zoltan Barina, Blandine Bärtschi, et al. 2023. “The Colonial Legacy of Herbaria.” *Nature Human Behaviour*, 7: 1–10. [https://doi.org/10.1038/s41562-023-01616-7](https://doi.org/10.1038/s41562-023-01616-7).
-
-For more on herbaria, Maura Flannery has a blog [Herbarium World](https://herbariumworld.wordpress.com/) and has published *[In the Herbarium: The Hidden World of Collecting and Preserving Plants](https://yalebooks.yale.edu/book/9780300247916/in-the-herbarium/)* (Yale University Press, 2023).
