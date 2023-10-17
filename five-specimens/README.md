@@ -57,6 +57,7 @@ For more on herbaria, Maura Flannery has a blog [Herbarium World](https://herbar
 [^3]: Flannery, Maura C. 2019. “Naming a Genus for William Darlington: A Case Study in Botanical Eponymy.” *Archives of Natural History* 46 (1): 75–87. [https://doi.org/10.3366/anh.2019.0555](https://doi.org/10.3366/anh.2019.0555).
 
 [^4]: Spamer, Earle, and Richard McCourt. 2002. “The Lewis and Clark Herbarium of The Academy of Natural Sciences. Part 1.” *Notulae Naturae*, no. 475: 1–46.
+.ve-media wc:Naturalis_Biodiversity_Center_-_Solanum_lycopersicum_var._lycopersicum_-_old_tomato_herbarium_sheet.jpg
 
 [^5]: Das, S., and M. Lowe. 2018. “Nature Read in Black and White: Decolonial Approaches to Interpreting Natural History Collections.” *Journal of Natural Science Collections* 6: 4–14.
 
