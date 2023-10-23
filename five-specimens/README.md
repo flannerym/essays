@@ -20,10 +20,9 @@ Torrey named the species ==*Darlingtonia californica*=={Q1138945} after his frie
 
 ####Comparison
 
-.ve-media gh:flannerym/media/Darlingtonia_print.jpeg left
+.ve-media gh:flannerym/media/Darlingtonia_Illustration.jpeg left
 
-.ve-media gh:flannerym/media/Darlingtonia_photo.jpg right  
-
+.ve-media gh:flannerym/media/Darlingtonia_Photo.jpg right
 
 ### The Continuing Story of Specimens: The Lewis and Clark Collections
 .ve-media gh:flannerym/media/Berberis.jpg right 
