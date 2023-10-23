@@ -11,7 +11,7 @@ In the past, herbarium sheets were often bound into book form to preserve them, 
 
 ### Collecting Voyages and Naming Plants: The Case of *Darlingtonia*
 
-.ve-media gh:flannerym/media/Darlingtonia.jpg right
+.ve-media gh:flannerym/media/Darlingtonia_californica.jpg right
 
 From the 16th century on plant collectors were dispatched around the world in search of new species. Since it was difficult to transport live plants or even seeds on long ocean voyages, specimens and illustrations were sent to botanists for study. The United States sponsored the ==Wilkes Expedition=={Q119129} (1838-1842) that brought back 50,000 plant specimens, including many new species. The New York botanist ==John Torrey=={Q1346660} studied those collected in what is now Oregon and California. Among them were specimens of a pitcher plant, stems and distinctive cylindrical leaves. However, it was impossible to identify or describe the species because there were no flowers, often the most distinctive part of a plant. A few years later another collector who had visited the same area arrived at Torrey’s door with a package of specimens. Opening it, Torrey immediately realized it contained specimens of the same pitcher plant, but in ==flower=={87ac4946}. He attached the flower to the same sheet with the material collected years before. Today, the later collection would have been considered a separate specimen and given its own sheet to record a different "collection event."  
 
