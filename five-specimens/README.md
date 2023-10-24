@@ -25,7 +25,8 @@ Torrey named the species ==*Darlingtonia californica*=={Q1138945} after his frie
 .ve-media gh:flannerym/media/Darlingtonia_Photo.jpg right
 
 ### The Continuing Story of Specimens: The Lewis and Clark Collections
-.ve-media gh:flannerym/media/Berberis.jpg right 
+
+.ve-media gh:flannerym/media/Oregon_Grape.jpeg right
 
 Specimens can also hold stories about what happened to them after collection. When ==President Thomas Jefferson=={Q11812} appointed ==Meriwether Lewis=={Q313492} and ==William Clark=={Q355348} to lead an expedition into the newly acquired ==Louisiana Purchase=={Q193155} territory, he made sure Lewis was tutored in plant identification and collection by ==Benjamin Barton=={Q276825}, a leading Philadelphia botanist. Some of Lewis’s specimens were lost in transit, a common problem for expeditions. However, many did reach Barton who then asked botanist ==Frederick Pursh=={Q67353} to study them. Pursh became dissatisfied with his compensation and left with some of the specimens, eventually sailing to England where he published descriptions of expedition plants. He then sold the specimens to ==Aylmer Bourke Lambert=={Q374894}, a British botanist. Lambert's collection was auctioned after his death. Specimens from such unexplored areas were often of considerable worth because botanists hoped to find undescribed species among the sheets. The Lewis material was bought by an American botanist who donated them to the ==Academy of Natural Sciences=={Q2822400} in Philadelphia.[^4] A specimen of the Oregon grape (*Berberis aquifolium*) is one that ==Pursh=={741,1,743,1051,36ebe578} took to England and has the stamp of the Lambert Herbarium.
 
