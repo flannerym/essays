@@ -53,7 +53,7 @@ This additional data makes specimens useful in research beyond plant identificat
 
 For more on herbaria, Maura Flannery has a blog [Herbarium World](https://herbariumworld.wordpress.com/) and has published *[In the Herbarium: The Hidden World of Collecting and Preserving Plants](https://yalebooks.yale.edu/book/9780300247916/in-the-herbarium/)* (Yale University Press, 2023).
 
-.ve-media gh:flannerym/media/Narrowleaf_Silkgrass.jpeg
+
 ### References
 [^1]: Thijsse, Gerard. 2022. “‘Everlasting Gardens’: Origin, Spread and Purpose of the First Herbaria.” In *The Green Middle Ages: The Depiction and Use of Plants in the Western World  600-1600,* edited by Claudine A. Chavannes-Mazel and Linda IJpelaar, 72–107. Amsterdam: University of Amsterdam Press.
 
